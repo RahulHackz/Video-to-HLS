@@ -1,7 +1,16 @@
 # Video-to-HLS
 
-Create video into HLS easily!
-This uses FFMPEG.
+Create video into HLS easily!<br>
+This uses FFMPEG.<br>
+
+It generates video with these resolution, bitrate and audio-rate<br>
+
+  resolution | bitrate |  audio-rate<br>
+  426x240    |  400k   |  128k<br>
+  640x360    |  800k   |  128k<br>
+  842x480    |  1400k  |  192k<br>
+  1280x720   |  2800k  |  192k<br>
+  1920x1080  |  5000k  |  256k<br>
 
 How to use:<br>
 1. Download/Clone this repo
