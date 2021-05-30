@@ -3,7 +3,7 @@
 Create video into HLS easily!<br>
 This uses FFMPEG.<br>
 
-It generates video with these resolution, bitrate and audio-rate<br>
+It generates video with these resolutions, bitrate and audio-rate<br>
 
   resolution | bitrate |  audio-rate<br>
   426x240    |  400k   |  128k<br>
@@ -17,4 +17,4 @@ How to use:<br>
 2. Run the main script which converts video into HLS (.m3u8) as shown below, <br> bash video-to-hls.sh video-file.mp4
       
 NOTE (for Linux newbies):
-Make sure you have installed FFMPEG in your linux system and also you should give the correct path or video file name.
+Make sure you have installed FFMPEG in your Linux system, and also you should give the correct path or video file name.
